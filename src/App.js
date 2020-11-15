@@ -3,7 +3,7 @@ import Post from './components/posts/Post';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <Post />
     </div>
   );
